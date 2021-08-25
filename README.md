@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-using-pure-css-and-parcel-bundler-d9dVS_1uo)
+- [Live Site URL](https://huddle-landing-page-single-intro-section.vercel.app)
 
 ## My process
 
